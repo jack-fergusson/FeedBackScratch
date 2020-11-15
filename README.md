@@ -10,7 +10,7 @@ One of the issues with existing feedback forums is that longer works will never 
 
 This website will allow for many opportunities to turn users into customers for a mutually beneficial relationship. For example, users could pay the site in order to have more time in the ‘spotlight’, giving their art more exposure and hopefully leading to an influx of traffic for their respective pages. Alternatively, smaller creators may be inclined to pay for a greater chance of receiving feedback from those with the most expertise. 
 
-	Overall, the goal of this project is to help people that want to improve in any aspect of life. I believe that the most important aspect of improvement is to try, try, and try again, but you must be told what works and what does not in order to truly better yourself. I believe that this website will create a strong community of like-minded people, helping all of those who choose to participate.
+Overall, the goal of this project is to help people that want to improve in any aspect of life. I believe that the most important aspect of improvement is to try, try, and try again, but you must be told what works and what does not in order to truly better yourself. I believe that this website will create a strong community of like-minded people, helping all of those who choose to participate.
 
 
 
